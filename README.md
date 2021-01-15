@@ -1,5 +1,5 @@
 # Text-BasedBrowser
-Text-based browser (JetBrains Academy's project).
+Text-based browser (JetBrains Academy's project)
 
 Used modules:
 - HTTP library Requests
